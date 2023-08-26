@@ -1,0 +1,7 @@
+.idea
+.vscode
+.fleet
+venv
+
+**/__pycache__
+*.iml
